@@ -1,5 +1,5 @@
 body    {
-    background-image: url(assets/images/Crystal_Background.jpg);
+    background-image: url(/assets/images/Crystal_Background.jpg);
     background-size: cover;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold
